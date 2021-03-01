@@ -5,6 +5,15 @@
 ## 自我介紹  
 Hello~~ 我是沈沛志，就讀銘傳大學資訊傳播工程學系。
 
+```c
+#include <stdio.h>
+int main()
+{
+  printf("Hello World\n");
+  return 0;
+}
+```
+
 ## 興趣 
 我喜歡戶外休閒、吃美食和看電影。
 
